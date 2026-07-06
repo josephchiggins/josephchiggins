@@ -19,8 +19,8 @@
 
 ## 🚀 Projects
 
-- 🌎 [Air Quality Data Project](https://github.com/josephchiggins/Air_Quality_Data_Project)
-- 🏀 [NBA Win Streak Project](https://github.com/josephchiggins/NBA_Win_Streak_Project)
+- 🌎 [Air Quality Data](https://github.com/josephchiggins/Air_Quality_Data_Project)
+- 🏀 [NBA Win Streak](https://github.com/josephchiggins/NBA_Win_Streak_Project)
 
 ---
 
